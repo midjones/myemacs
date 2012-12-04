@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Emacs Prelude
 =============
 
@@ -288,3 +289,9 @@ welcome. GitHub pull requests are even better! :-)
 
 Cheers,<br/>
 Bozhidar
+=======
+myemacs
+=======
+
+my emacs configuration
+>>>>>>> fd467e78530b27863e5f358085d0e03a3b0548bc
