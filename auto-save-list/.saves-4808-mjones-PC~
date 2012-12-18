@@ -1,0 +1,36 @@
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/add/registry_key/add.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!add!registry_key!add.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/verify/file/verify_is_restored_after_update.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!verify!file!verify_is_restored_after_update.py#
+/cygdrive/c/workspace/dev/cnsmrtms/lib/consumer/test_helper/file_helper.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!lib!consumer!test_helper!file_helper.py#
+/cygdrive/c/workspace/dev/cnsmrtms/lib/consumer/common/directory_locator.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!lib!consumer!common!directory_locator.py#
+/cygdrive/c/workspace/dev/cnsmrtms/lib/consumer/common/encrypted_registry_key_locator.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!lib!consumer!common!encrypted_registry_key_locator.py#
+/cygdrive/c/workspace/dev/cnsmrtms/lib/thirdparty/pywinauto/controls/Accessability win32_controls.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!lib!thirdparty!pywinauto!controls!Accessability win32_controls.py#
+/cygdrive/c/workspace/dev/cnsmrtms/lib/consumer/common/file_locator.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!lib!consumer!common!file_locator.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/verify/access_permissions/verify_for_are_protected.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!verify!access_permissions!verify_for_are_protected.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/rename/file/rename_to.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!rename!file!rename_to.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/launch/application/launch.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!launch!application!launch.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/delete/file_contents/delete_from.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!delete!file_contents!delete_from.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/delete/file/delete_with_access_protection.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!delete!file!delete_with_access_protection.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/delete/file/delete.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!delete!file!delete.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/create/temporary_file/create_with_size.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!create!temporary_file!create_with_size.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/copy/file/copy_to.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!copy!file!copy_to.py#
+/cygdrive/c/workspace/dev/cnsmrtms/blocks/steps/archive/file/archive_to.py
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!blocks!steps!archive!file!archive_to.py#
+/cygdrive/c/workspace/dev/cnsmrtms/metal_scripts/VUL/GENERAL/dbupdate32348.mtl
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!metal_scripts!VUL!GENERAL!dbupdate32348.mtl#
+/cygdrive/c/workspace/dev/cnsmrtms/TAGS
+/tmp/#!cygdrive!c!workspace!dev!cnsmrtms!TAGS#

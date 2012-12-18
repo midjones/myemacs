@@ -1,0 +1,89 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/host/workspace/dev/cnsmrtms/blocks/steps/cancel/" . "firefox/")
+ ("/host/workspace/dev/cnsmrtms/metal_scripts/MSC/" . "performance/")
+ ("/host/workspace/dev/cnsmrtms/" . "unittests/")
+ ("/host/cygwin/home/mjones/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/host/workspace/dev/cnsmrtms/unittests/tests/blocks/steps/cancel/firefox/"
+ "/host/workspace/dev/cnsmrtms/blocks/steps/cancel/firefox/"
+ "/host/workspace/dev/cnsmrtms/test_management/"
+ "/host/workspace/dev/cnsmrtms/metal_scripts/MSC/performance/"
+ "/host/workspace/dev/cnsmrtms/test_development/"
+ "/host/workspace/dev/cnsmrtms/test_runner/"
+ "/home/mjones/"
+ "/host/workspace/dev/cnsmrtms/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "cancel_test.py"
+ "cancel.py"
+ "utils.py"
+ "views.py"
+ "efwwgfew3254.mtl"
+ "models.py"
+ "my_commands.txt"
+ "local_settings.py.nix"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/host/workspace/dev/cnsmrtms/unittests/tests/blocks/steps/cancel/firefox/" (20683 19061) "__init__.py" "cancel_test.py" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/unittests/tests/blocks/steps/cancel/" (20683 19057) "__init__.pyc" "__init__.py" "vulnerability_scan/" "tests/" "installation/" "firefox/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/unittests/tests/blocks/steps/" (20663 39466) "__init__.pyc" "__init__.py" "wait/" "verify/" "unselect/" "store/" "stop/" "start/" "set/" "select/" "schedule/" "run/" "restore/" "renew/" "rename/" "remove/" "release/" "pause/" "navigate_to/" "launch/" "install/" "hide/" "force/" "expire/" "enable/" "disable/" "delete/" "create/" "copy/" "close/" "click/" "cancel/" "block/" "archive/" "allow/" "add/" "activate/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/unittests/tests/blocks/" (20650 35888) "__init__.pyc" "__init__.py" "steps/" "preconditions/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/unittests/tests/" (20669 8879) "__init__.pyc" "__init__.py" "tools/" "test_development/" "metal/" "lib/" "fakes/" "blocks/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/unittests/" (20669 8878) "__init__.pyc" "__init__.py" "utils/" "tests/" "stubs/" "integration_tests/" "fakes/" "data/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/blocks/steps/cancel/firefox/" (20683 19057) "__init__.py" "cancel.py.data" "cancel.py" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/blocks/steps/cancel/" (20683 19043) "__init__.pyc" "__init__.py" "vulnerability_scan/" "scan/" "installation/" "firefox/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/blocks/steps/" (20659 45325) "__init__.pyc" "__init__.py" "wait/" "verify/" "untrust/" "unselect/" "uninstall/" "trust/" "store/" "stop/" "start/" "set/" "send/" "select/" "schedule/" "run/" "resume/" "restore/" "restart/" "reset/" "renew/" "rename/" "remove/" "release/" "refresh/" "reboot/" "quarantine/" "open/" "navigate_to/" "mount/" "log_on/" "log_off/" "lock/" "load/" "launch/" "install/" "hide/" "get/" "force/" "extract/" "expire/" "exclude/" "enable/" "disable/" "delete/" "debug/" "create/" "copy/" "compare/" "close/" "click/" "clear/" "cancel/" "block/" "archive/" "allow/" "add/" "activate/" "access/" "pause/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/blocks/" (20651 9666) "__init__.pyc" "__init__.py" "steps/" "preconditions/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/" (20683 19061) "metal_scripts/" "metal/" "manage.py~" "manage.py" "local_settings_prod.py" "local_settings_dev.py" "local_settings.py~" "local_settings.pyc" "local_settings.py.win" "local_settings.py" "lib/" "help/" "general/" "firewall_tester/" "emacs-nox.exe.stackdump" "__init__.pyc" "__init__.py" "white_box/" "utils.pyc" "utils.py" "urls.pyc" "urls.py" "unittests/" "tools/" "tmsutils/" "test_runner/" "test_reports/" "test_management/" "test_execution/" "test_development/" "tests/" "TAGS" "src/" "setup.cfg" "settings.py~" "settings.pyc" "settings.py" "runnose.bat" "result_analysis/" "report/" "downloads/" "doc/" "django_templates/" "distribute-0.6.30.tar.gz" "dependencies/" "database/" "ctags.txt" "config.pyc" "config.py" "config/" "casper_sdks/" "builds/" "blocks/" "attachments/" "apache/" ".ropeproject/" "notifications/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/test_management/" (20683 19061) "__init__.pyc" "__init__.py" "widgets.pyc" "widgets.py" "views.pyc" "views.py" "utils.pyc" "utils.py" "urls.pyc" "urls.py" "tests.py" "models.pyc" "models.py" "migrations/" "forms.pyc" "forms.py" "fixtures/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/metal_scripts/MSC/performance/" (20683 17963) "wgfew3254.mtl" "wefe123.mtl" "NoUpdatesFound.mtl" "hi123.mtl" "efwwgfew3254.mtl" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/metal_scripts/MSC/" (20663 38832) "wmiintegration/" "ux_homepage/" "ux_generalsettings/" "ux_drawerstates/" "ux_automaticupdates/" "update_wininetdefault/" "update_productupdate/" "updates_webcustupdates/" "updates_fdm/" "updates_contentupdate/" "uninstall/" "ui_ux/" "task_scheduler/" "subscription_manager/" "protection_manager/" "personalization/" "performance/" "os_specific_tasks/" "instrumentation/" "general/" "full_screen_detection_mode/" "dat_smoke_tests/" "customization/" "b06040/" "Update/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/metal_scripts/" (20680 64206) "VUL/" "MVS/" "MSC/" "MPF/" "MCPR/" "DEV/" "DAT/" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/test_development/" (20683 18127) "__init__.pyc" "__init__.py" "views.pyc" "views.py" "utils.pyc" "utils.py" "urls.pyc" "urls.py" "tests.py" "models.pyc" "models.py" "forms.pyc" "forms.py" "../" "./")
+
+ ("/host/workspace/dev/cnsmrtms/test_runner/" (20683 17232) "__init__.pyc" "__init__.py" "views.pyc" "views.py" "utils.pyc" "utils.py" "urls.pyc" "urls.py" "tests.py" "models.py~" "models.pyc" "models.py" "migrations/" "forms.pyc" "forms.py" "fixtures/" "../" "./")
+
+ ("/home/mjones/" (20682 19744) "my_commands.txt~" ".subversion/" "examples.desktop" "Videos/" "Downloads/" ".gnome2_private/" "Pictures/" ".ICEauthority" ".mission-control/" ".cache/" ".pip/" "my_commands.txt" ".pulse/" ".pki/" ".xsession-errors" ".dbus/" ".rdesktop/" ".config/" "Public/" ".xsession-errors.old" ".profile" ".gconf/" "Templates/" "Documents/" ".local/" ".mozilla/" "../" ".bashrc" ".gtk-bookmarks" ".bash_history" ".Xauthority" ".gnome2/" "svn/" ".icons/" ".pulse-cookie" "Music/" ".bash_logout" "./" ".dmrc" ".eclipse/" ".emacs.d/" "Desktop/")
+
+ ("/home/" (20651 44893) "mjones/" "../" "./")
+
+ ("/host/" (20681 35773) "install.res.1033.dll" "install.res.1031.dll" "install.res.1028.dll" "install.ini" "install.exe" "hiberfil.sys" "globdata.ini" "Firefox/" "Users/" "Program Files (x86)/" "install.res.1036.dll" "Dell/" "Program Files/" "PerfLogs/" "pagefile.sys" "NVIDIA/" "MSOCache/" "logs/" "iso/" "Intel/" "install.res.3082.dll" "install.res.2052.dll" "install.res.1042.dll" "install.res.1041.dll" "install.res.1040.dll" "eula.3082.txt" "eula.2052.txt" "eula.1042.txt" "eula.1041.txt" "eula.1040.txt" "eula.1036.txt" "eula.1033.txt" "eula.1031.txt" "eula.1028.txt" "emacs-24.2/" "Documents and Settings" "wubildr.mbr" "wubildr" "workspace/" "Windows/" "vm/" "VC_RED.MSI" "VC_RED.cab" "vcredist.bmp" "ubuntu/" "temp/" "System Volume Information/" "share/" "screenshots/" "runner/" "Recovery/" "Python27/" "ProgramData/" "DefaultRexBinaries/" "cygwin/" "cds/" ".rnd" "$Recycle.Bin/" "#_assh_bmjones@172.16.19.95_b_acygdrive_ac_ahello.txt#" "../" "./")
+
+ ("/host/cygwin/" (20636 31741) "var/" "usr/" "tmp/" "setup.exe" "lib/" "home/" "etc/" "dev/" "Cygwin.ico" "Cygwin.bat" "Cygwin-Terminal.ico" "bin/" "../" "./")
+
+ ("/host/cygwin/home/" (20613 29111) "mjones/" "../" "./")
+
+ ("/host/cygwin/home/mjones/Documents/" (20668 54069) "../" "./")
+
+ ("/host/cygwin/home/mjones/" (20683 16833) "auto-complete-1.3.1.zip" "auto-complete-1.3.1/" ".xsession-errors.old" ".xsession-errors" ".Xauthority" ".vimrc" ".viminfo" ".vim/" ".tramp_history" ".subversion/" ".ssh-for-nix/" ".ssh/" ".smartsvn/" ".rpmdb/" ".pylintrc" ".pylint.d/" ".putty/" ".pulse-cookie" ".profile" ".pip/" ".mozilla/" ".minttyrc" ".macromedia/" "_viminfo" "Videos/" "Templates/" "svn/" "smartsvn-7_5_2/" "ropemode-0.2.tar.gz" "ropemode-0.2/" "ropemacs-0.7.tar.gz" "ropemacs-0.7/" "rope-0.9.4.tar.gz" "rope-0.9.4/" "python-mode.el-6.0.12.tar.gz" "python-mode.el-6.0.12/" "Pymacs-master/" "pyflakes-0.5.0.tar.gz" "pyflakes-0.5.0/" "Public/" "Pictures/" "Music/" "html_get.pyc" "html_get.py" "hello.py~" "hello.py" "emacs-nox.exe.stackdump" "Downloads/" "Documents/" "Desktop/" "ctags-5.8.tar.gz" "ctags-5.8/" ".lesshst" ".ipython/" ".inputrc" ".icons/" ".ICEauthority" ".gtk-bookmarks" ".gstreamer-0.10/" ".goutputstream-WNSXOW" ".goutputstream-O1YOOW" ".gnome2_private/" ".gnome2/" ".gitconfig" ".gconf/" ".emacs~" ".emacs.d.pre-prelude.tar" ".emacs.d.backup/" ".emacs.d/" ".emacs.backup" ".dmrc" ".dbus/" ".config/" ".compiz/" ".cache/" ".bash_profile" ".bash_history" ".bashrc~" ".bashrc" ".adobe/" ".local/" "../" "./")
+
+ ("/host/workspace/dev/" (20641 57602) "VUL.backup/" "tmp/" "tests/" "general.backup/" "emacs-nox.exe.stackdump" "cnsmrtmsinterface/" "cnsmrtms/" ".svn/" ".pydevproject" ".project" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
